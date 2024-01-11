@@ -24,7 +24,6 @@ The basic idea behind a port scanner is simple: Given an IP address of a machine
 
 
 
-
 It additionally provides information about the associated service running on the open port.
 
 
